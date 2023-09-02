@@ -63,3 +63,15 @@ The production build will generate client and server modules by running both cli
 ```shell
 npm run build # or `yarn build`
 ```
+
+---
+
+## ENVs Configuration
+
+Rename file __.env.template__ to __.env__ and change environment variables
+
+### OpenAI
+You can generate an OpeAI ApiKey here
+
+[OpenAPI Developers](https://platform.openai.com/account/api-keys)
+
